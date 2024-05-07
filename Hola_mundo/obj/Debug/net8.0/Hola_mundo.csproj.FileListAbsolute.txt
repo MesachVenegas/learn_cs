@@ -1,0 +1,14 @@
+C:\Users\mesac\repositorios\learn_cs\Hola_mundo\bin\Debug\net8.0\Hola_mundo.exe
+C:\Users\mesac\repositorios\learn_cs\Hola_mundo\bin\Debug\net8.0\Hola_mundo.deps.json
+C:\Users\mesac\repositorios\learn_cs\Hola_mundo\bin\Debug\net8.0\Hola_mundo.runtimeconfig.json
+C:\Users\mesac\repositorios\learn_cs\Hola_mundo\bin\Debug\net8.0\Hola_mundo.dll
+C:\Users\mesac\repositorios\learn_cs\Hola_mundo\bin\Debug\net8.0\Hola_mundo.pdb
+C:\Users\mesac\repositorios\learn_cs\Hola_mundo\obj\Debug\net8.0\Hola_mundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mesac\repositorios\learn_cs\Hola_mundo\obj\Debug\net8.0\Hola_mundo.AssemblyInfoInputs.cache
+C:\Users\mesac\repositorios\learn_cs\Hola_mundo\obj\Debug\net8.0\Hola_mundo.AssemblyInfo.cs
+C:\Users\mesac\repositorios\learn_cs\Hola_mundo\obj\Debug\net8.0\Hola_mundo.csproj.CoreCompileInputs.cache
+C:\Users\mesac\repositorios\learn_cs\Hola_mundo\obj\Debug\net8.0\Hola_mundo.dll
+C:\Users\mesac\repositorios\learn_cs\Hola_mundo\obj\Debug\net8.0\refint\Hola_mundo.dll
+C:\Users\mesac\repositorios\learn_cs\Hola_mundo\obj\Debug\net8.0\Hola_mundo.pdb
+C:\Users\mesac\repositorios\learn_cs\Hola_mundo\obj\Debug\net8.0\Hola_mundo.genruntimeconfig.cache
+C:\Users\mesac\repositorios\learn_cs\Hola_mundo\obj\Debug\net8.0\ref\Hola_mundo.dll
